@@ -168,6 +168,8 @@ sponsors:
   level: gold
 - id: redgate
   level: gold
+- id: dash0
+  level: gold
 - id: infometis
   level: silver
 - id: zkb
@@ -183,6 +185,10 @@ sponsors:
 - id: kpmg
   level: bronze
 - id: cognizant
+  level: bronze
+- id: hslu
+  level: bronze
+- id: dbi-services
   level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
