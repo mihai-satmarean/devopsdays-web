@@ -43,11 +43,11 @@ event_social_youtube: "devopsdaysATL" # Change this to the youtube channel handl
 # event_twitter: "devopsdaysATL" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -97,6 +97,14 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: harness
+    level: gold
+  - id: pulumi
+    level: gold
+  - id: edge-delta
+    level: gold
+  - id: ibm
+    level: gold
   - id: arresteddevops
     level: community
 
