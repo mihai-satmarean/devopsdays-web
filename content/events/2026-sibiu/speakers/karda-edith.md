@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/edith-karda-196889185/"
 image = "edithkarda.jpeg"
 type = "speaker"
-linktitle = "edith-karda"
+linktitle = "karda-edith"
 
 +++
 

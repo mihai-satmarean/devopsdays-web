@@ -4,7 +4,7 @@ Twitter = "https://x.com/dave_westgarth"
 linkedin = "www.linkedin.com/in/dave-westgarth"
 image = "dave.jpg"
 type = "speaker"
-linktitle = "dave-westgarth"
+linktitle = "westgarth-dave"
 
 +++
 

@@ -4,7 +4,7 @@ Twitter = "https://x.com/nicolas_fantoni"
 linkedin = "https://www.linkedin.com/in/nicolas-fantoni/"
 image = "nicolas.jpg"
 type = "speaker"
-linktitle = "nicolas-fantoni"
+linktitle = "fantoni-nicolas"
 
 +++
 

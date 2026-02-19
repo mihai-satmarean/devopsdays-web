@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/ralucamihu/"
 image = "raluca.jpg"
 type = "speaker"
-linktitle = "raluca-mihu"
+linktitle = "mihu-raluca"
 
 +++
 

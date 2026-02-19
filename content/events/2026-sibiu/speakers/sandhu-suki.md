@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 image = "sukisandhu.jpg"
 type = "speaker"
-linktitle = "dr-suki-sandhu"
+linktitle = "sandhu-suki"
 
 +++
 
