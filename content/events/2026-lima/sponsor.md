@@ -163,8 +163,8 @@ Description = "Sponsor devopsdays lima 2026"
   <tbody>
     <tr style="height: 45px;"> <!-- Altura fija para las filas del cuerpo -->
       <td style="background-color: #c8c8c8;" class="table-details">
-        <div class="title">Precio Precio regular sin IGV</div>
-        <div class="subtitle">Sin IGV</div>
+        <div class="title">Regular price</div>
+        <div class="subtitle">Tax not included</div>
       </td>
       <td class="platinium">$10,000</td>
       <td class="gold">$7,000</td>
@@ -173,8 +173,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Precio 20% dscto</div>
-        <div class="subtitle">Hasta el 30 de marzo del 2026 sin IGV</div>
+        <div class="title">Discounted price (20%)</div>
+        <div class="subtitle">Until MAR 30th 2026 - Tax not included</div>
         </td>
       <td class="platinium">$8,000</td>
       <td class="gold">$5,600</td>
@@ -183,7 +183,7 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Presentación 5 min</div>
+        <div class="title">Presentation (5min)</div>
         <div class="subtitle">Sponsor keynote</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -193,7 +193,7 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8" class="table-details">
-        <div class="title">Grabación video</div>
+        <div class="title">Presentation video recording</div>
         <div class="subtitle">Sponsored keynote</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -203,8 +203,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Presentación 20 min</div>
-        <div class="subtitle">Demo sesion sala secundaria</div>
+        <div class="title">Presentation (20min)</div>
+        <div class="subtitle">Demo session at secondary ambience</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -213,8 +213,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Lista de registrados*</div>
-        <div class="subtitle">Oportunidad de obtener lista</div>
+        <div class="title">Participant opt-in list*</div>
+        <div class="subtitle">Chance to receive the list</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -223,8 +223,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Recopilar información</div>
-        <div class="subtitle">De asistentes via NFC</div>
+        <div class="title">Participant information</div>
+        <div class="subtitle">Organic through NFC technology</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -233,8 +233,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Sorteo a participantes</div>
-        <div class="subtitle">En el auditorio principal</div>
+        <div class="title">Raffles for audience</div>
+        <div class="subtitle">At main room</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -243,8 +243,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Logo de la empresa</div>
-        <div class="subtitle">Durante el evento</div>
+        <div class="title">Logo showcase</div>
+        <div class="subtitle">During the event</div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -253,8 +253,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Logo de la empresa</div>
-        <div class="subtitle">En comunicación digital y merch<div>
+        <div class="title">Logo showcase</div>
+        <div class="subtitle">Through media channels and merch<div>
       </td>
       <td class="platinium"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
       <td class="gold"><span class="check-badge"><i class="fa fa-check" aria-hidden="true"></i></span></td>
@@ -263,8 +263,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Entradas de cortesia</div>
-        <div class="subtitle">Full access</div>
+        <div class="title">Full access pass</div>
+        <div class="subtitle">Access to all ambients</div>
       </td>
       <td class="platinium">12</td>
       <td class="gold">8</td>
@@ -273,8 +273,8 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Entradas adicionales</div>
-        <div class="subtitle">Con descuento - máximo 10</div>
+        <div class="title">Additional passes</div>
+        <div class="subtitle">At discounted price - 10 max</div>
       </td>
       <td class="platinium">30%</td>
       <td class="gold">20%</td>
@@ -283,40 +283,40 @@ Description = "Sponsor devopsdays lima 2026"
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Espacio para stand**</div>
+        <div class="title">Stand dimensions**</div>
       </td>
       <td class="platinium">
-        <div class="title">Grande</div>
+        <div class="title">Large</div>
         <div class="subtitle">(5m x 3m)</div>
       </td>
       <td class="gold">
-        <div class="title">Mediado</div>
+        <div class="title">Medium</div>
         <div class="subtitle">(3m x 2m)</div>
       </td>
       <td class="silver">
-        <div class="title">Pequeño</div>
+        <div class="title">Small</div>
         <div class="subtitle">(1m x 1m)</div>
       </td>
       <td class="bronze"></td>
     </tr>
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
-        <div class="title">Redes sociales***</div>
-        <div class="subtitle">Reconocimiento</div>
+        <div class="title">Media coverage***</div>
+        <div class="subtitle">Acknowledgements</div>
       </td>
-      <td class="platinium">Publicidad destacada</td>
-      <td class="gold">Publicidad destacada</td>
-      <td class="silver">Publicidad</td>
-      <td class="bronze">Mención</td>
+      <td class="platinium">Featured advertising</td>
+      <td class="gold">Featured advertising</td>
+      <td class="silver">Advertising</td>
+      <td class="bronze">Mention</td>
     </tr>
   </tbody>
 </table>
 </div>
 
 <p>
-  <sup>1</sup> Opt-in attendees are those who have given their explicit consent to receive communications from the event.<br>
-  <sup>2</sup> The Platinum booth size is indicative and may vary depending on the available space.<br>
-  <sup>3</sup> Featured promotion includes a 2-minute video in an interview format.
+  <sup>*</sup> Opt-in attendees are those who have explicitly confirmed to receive communications about the event.<br>
+  <sup>**</sup> The size of the Platinum stand is referential and may change depending on the available space.<br>
+  <sup>***</sup> Featured advertising includes a 2-minute interview-style video.
 </p>
 
 <h2>Community Sponsorship</h2>
