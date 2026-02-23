@@ -95,12 +95,12 @@ team_members: # Name is the only required field for team members.
     image: "cj-obermaier.jpg"
     bio: "CJ has been involved in DevOpsDays KC since the first conference in 2016. He enjoys coaching high school soccer and spending time with his wife and dog."
   - name: "Ben Dechrai"
-    employer: "https://bsky.app/profile/bendechr.ai"
-    twitter: "https://ben.sc/twitter"
-    linkedin: "https://ben.sc/linkedin"
-    github: "https://ben.sc/github"
-    image: "ben-dechrai.png"
-    bio: "Ben Dechrai is a technologist with a strong focus on security and privacy, recognised as an MVP for his exceptional contributions to the community. Known for his ability to distil complex technical concepts into engaging, digestible portions, Ben empowers developers through a deep understanding of design principles, security considerations, and coding practices. With over two decades of experience in software engineering, security, and architecture, Ben is a published author and has consulted for companies and investors across numerous industries. He is deeply involved in the tech community, running technology conferences and workshops to share his expertise."
+    employer: "Venn Labs"
+    twitter: "https://twitter.com/bendechrai"
+    linkedin: "https://www.linkedin.com/in/bendechrai/"
+    github: "https://github.com/bendechrai"
+    image: "ben-dechrai.jpg"
+    bio: "Ben is a technologist with a strong focus on security, privacy, and AI. Recognised as an MVP for his exceptional contributions to the community, he distils complex technical concepts into engaging, digestible portions. Ben empowers developers through a deep understanding of design principles, security considerations, and coding practices. When he is isn't involved in the tech community, he can be found drinking coffee, or sliding down a slope on a plank of wood."
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
