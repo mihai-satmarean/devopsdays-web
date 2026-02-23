@@ -1,13 +1,21 @@
 +++
-Title = "devopsdays Kansas City 2026"
+Title = "DevOpsDays Kansas City 2026"
 Type = "welcome"
 aliases = ["/events/2026-kansas-city/"]
-Description = "devopsdays Kansas City 2026"
+Description = "DevOpsDays Kansas City 2026"
 +++
 
-<!-- <div style="text-align:center;">
+<div class = "row" id = "main-row">
+  <div class = "col-md-6 push-md-6" id = "left-col">
+    <h2>DevOpsDays Kansas City is back for 2026!</h2>
+    <p class="lead">
+    We're back on May 28-29, 2026 for our SEVENTH year, and we're excited to be part of <strong>CommunityDays KC</strong>! This collaboration will showcase the strength and diversity of Kansas City’s tech community by bringing together some of the city's Meetup groups to collaborate on content and build community. We can't wait to have you join us!
+    </p>
+  </div>
+  <div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -32,7 +40,8 @@ Description = "devopsdays Kansas City 2026"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
+    <a href="https://ti.to/kansas-city-developers-conference/communitydays-kc-2026">Register to attend the conference!</a>
   </div>
 </div>
 

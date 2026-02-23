@@ -3,11 +3,21 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for DevOpsDays Kansas City 2026"
 +++
-  {{< cfp_dates >}}
 
 <hr>
 
-There are three ways to propose a topic at DevOpsDays:
+Submit a proposal for your talk by visiting the <strong>CommunityDays KC 2026 <a href="https://sessionize.com/communitydayskc-2026">CFP page</a></strong> and selecting:
+
+- **Group:** DevOpsDays KC
+- **Session Length:**
+  - 25-minute talk (with 5-min Q&A)
+  - Ignite talk
+
+If you have any questions about the CFP process, please contact us at {{< email_organizers >}}.
+
+<hr>
+
+There are three different types of topics at DevOpsDays:
 <ol>
   <li><strong><em>A 25-minute talk</em></strong> (with 5-min Q&A) presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
@@ -26,12 +36,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
-
-Submit a proposal for your talk by visiting the CommunityDays KC 2026 CFP page, {{< event_link url-key="cfp_link" >}}, and selecting:
-
-- **Group:** DevOpsDays KC
-- **Session Length:**
-  - 25-minute talk (with 5-min Q&A)
-  - Ignite talk
-
-If you have any questions about the CFP process, please contact us at {{< email_organizers >}}.
