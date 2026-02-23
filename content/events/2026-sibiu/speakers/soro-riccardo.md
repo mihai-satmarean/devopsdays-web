@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 image = "riccardo.jpg"
 type = "speaker"
-linktitle = "riccardo-soro"
+linktitle = "soro-riccardo"
 
 +++
 

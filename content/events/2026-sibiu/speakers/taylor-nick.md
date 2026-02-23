@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://nickyt.online/"
 image = "nicktaylor.jpg"
 type = "speaker"
-linktitle = "nick-taylor"
+linktitle = "taylor-nick"
 
 +++
 

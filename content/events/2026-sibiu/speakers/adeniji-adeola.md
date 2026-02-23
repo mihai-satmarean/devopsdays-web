@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/adeola-adeniji/"
 image = "adeola.jpg"
 type = "speaker"
-linktitle = "adeola-adeniji"
+linktitle = "adeniji-adeola"
 
 +++
 

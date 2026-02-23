@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Zero Trust Infrastructure for AI Agents: Securing Your Development Workflow"
 Type = "talk"
-Speakers = ["nick-taylor"]
+Speakers = ["taylor-nick"]
 +++
 
 <h3>Securing AI Agents with Zero Trust and MCP</h3>

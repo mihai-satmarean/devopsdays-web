@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/paulinadubas/"
 image = "paulina.jpg"
 type = "speaker"
-linktitle = "paulina-dubas"
+linktitle = "dubas-paulina"
 
 +++
 
