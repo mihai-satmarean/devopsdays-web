@@ -20,11 +20,11 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-atlanta-2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2026-02-15  # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-04-24 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysATL.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
@@ -43,9 +43,9 @@ event_social_youtube: "devopsdaysATL" # Change this to the youtube channel handl
 # event_twitter: "devopsdaysATL" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -97,6 +97,14 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: harness
+    level: gold
+  - id: pulumi
+    level: gold
+  - id: edge-delta
+    level: gold
+  - id: ibm
+    level: gold
   - id: arresteddevops
     level: community
 

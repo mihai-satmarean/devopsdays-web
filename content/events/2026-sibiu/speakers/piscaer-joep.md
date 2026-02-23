@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 image = "joepiscaer.jpg"
 type = "speaker"
-linktitle = "joep-piscaer"
+linktitle = "piscaer-joep"
 
 +++
 

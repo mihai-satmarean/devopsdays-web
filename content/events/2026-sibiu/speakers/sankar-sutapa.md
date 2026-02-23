@@ -2,9 +2,9 @@
 Title = "Sutapa Sankar"
 Twitter = ""
 linkedin = ""
-image = "sutapasarkar.jpeg"
+image = "sutapasarkar.jpg"
 type = "speaker"
-linktitle = "sutapa-sankar"
+linktitle = "sankar-sutapa"
 
 +++
 
