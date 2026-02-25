@@ -5,6 +5,10 @@ Description = "Location for devopsdays dallas 2026"
 +++
 
 Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel details in this vicinity.
+<div style="float:left;">
+  <img alt="DevOpsDays Dallas 2025" src="/events/2025-dallas/planoeventcenter.jpg" style="max-width: 60%;">
+</div><br><br>
+<br><br>
 
 ### <b>Conference location:</b> 
 ### Plano Event Center<br>
