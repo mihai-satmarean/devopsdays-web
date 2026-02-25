@@ -40,7 +40,7 @@ masthead_background: "backdrop.png"
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2026-denver/welcome/
 # Social Share Buttons - Only show email and LinkedIn (no Facebook or Twitter)
-social_shares: ["email", "linkedin", "youtube"]
+social_shares: ["email", "linkedin"]
 
 event_social_linkedin: "https://linkedin.com/company/devopsams" # Change this to the url to your Linkedin group, company, or page.
 event_social_mastodon: "https://mastodon.social/@devopsams" # Change this to url to your mastodon page
