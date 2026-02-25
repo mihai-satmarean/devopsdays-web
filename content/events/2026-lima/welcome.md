@@ -16,7 +16,7 @@ Description = "devopsdays lima 2026"
 .welcome-hero-year {
   color: #8C51BF;
   opacity: 0.9;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .welcome-hero-date {
@@ -81,6 +81,81 @@ Description = "devopsdays lima 2026"
   height: clamp(320px, 38vw, 420px);
 }
 
+.welcome-hero-caption {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.welcome-socials {
+  margin-top: 18px;
+  text-align: left;
+}
+
+.welcome-socials-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 16px 0 8px;
+}
+
+.welcome-section-sep {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  margin-top: 14px;
+  padding-top: 14px;
+}
+
+.welcome-section-gap {
+  margin-top: 14px;
+  padding-top: 14px;
+}
+
+.welcome-socials-icons {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.welcome-socials-icons a {
+  width: 34px;
+  height: 34px;
+  padding: 4px;
+  font-size: 20px;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  transition: transform 120ms ease, background-color 120ms ease;
+}
+
+.welcome-socials-icons a.social-li { color: rgb(29, 96, 196); --hover-bg: rgba(29, 96, 196, 0.12); }
+.welcome-socials-icons a.social-ig {
+  color: #e1306c; /* fallback */
+  --hover-bg: rgba(225, 48, 108, 0.10);
+}
+.welcome-socials-icons a.social-yt { color: rgb(224, 52, 52); --hover-bg: rgba(224, 52, 52, 0.12); }
+.welcome-socials-icons a.social-x { color: rgb(95, 92, 92); --hover-bg: rgba(95, 92, 92, 0.12); }
+
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .welcome-socials-icons a.social-ig::before {
+    background-image: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.welcome-socials-icons a:hover,
+.welcome-socials-icons a:focus {
+  transform: translateY(-1px) scale(1.06);
+  background-color: var(--hover-bg, rgba(0, 0, 0, 0.08));
+}
+
 @media (min-width: 576px) {
   .welcome-hero-cta {
     flex-direction: row;
@@ -131,7 +206,7 @@ span.welcome-page-masthead-venue, span.welcome-page-date {
     <h1 class="welcome-hero-title">Welcome to DevOpsDays Lima! <span class="welcome-hero-year">2026</span></h1>
     <div class="welcome-hero-logo">
       {{< event_logo >}}
-    </div>
+    </div><br>
     <p>DevOpsDays Lima will be coming back to {{< event_location >}} on <strong class="welcome-hero-date">Aug 27-28, 2026</strong>.</p>
     <p>Our mission at DevOpsDays Lima is to drive technological evolution with an event that connects professionals, encourages sharing DevOps knowledge, and strengthens a culture of continuous innovation based on real experiences.</p>
     <div class="welcome-hero-cta">
@@ -152,21 +227,31 @@ span.welcome-page-masthead-venue, span.welcome-page-date {
       allow="autoplay; fullscreen; picture-in-picture" 
       allowfullscreen 
       class="welcome-hero-video">
-    </iframe>
-    <br/>Impressions from 2025
-  </div>  
-</div>
+	    </iframe>
+	    <div class="welcome-hero-caption">Impressions from 2025</div>
+	  </div>  
+	</div>
+
+</br>
 
 <div class="row">
   <div class="col-md-12">
-    <p>
-    <p>First time here? Check out our last events and get hyped!</p>
-    <a href="https://www.devopsdays.org/events/2025-lima/welcome/">DevOpsDays 2025 - Lima</a>
-    </br>
+    <div class="welcome-socials">
+      <h3 class="welcome-socials-title">Follow us!</h3>
+      <div class="welcome-socials-icons">
+        {{< event_social_linkedin >}}
+        <a href="https://www.instagram.com/devopsdayslima/" class="fa-brands social-ig fa-instagram" target="_blank" rel="noopener" title="Follow on Instagram"></a>
+        {{< event_social_youtube >}}
+      </div>
+    </div>
+    <div class="welcome-section-gap">
+      <p>First time here? Check out our last events and get hyped!</p>
+      <a href="https://www.devopsdays.org/events/2025-lima/welcome/">DevOpsDays 2025 - Lima</a>
+    </div>
   </div>
 </div>
 
-<hr>
+<div class="welcome-section-sep"></div>
 
 <div class="row">
   <div class="col-md-2">
