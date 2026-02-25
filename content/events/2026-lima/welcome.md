@@ -75,6 +75,12 @@ Description = "devopsdays lima 2026"
   filter: brightness(0.95);
 }
 
+.welcome-hero-video {
+  width: 100%;
+  max-width: 100%;
+  height: clamp(320px, 38vw, 420px);
+}
+
 @media (min-width: 576px) {
   .welcome-hero-cta {
     flex-direction: row;
@@ -103,7 +109,7 @@ a.jssocials-share-link:hover, a.jssocials-share-link:active {
 }
 
 a.p-location{
-  font-weight: 600;
+  font-weight: 700;
   color: #ffffffdd;
 }
 
@@ -112,12 +118,16 @@ a.p-location:hover, a.p-location:active {
 }
 
 .e-summary {
-  font-weight: 500;
+  font-weight: 400;
+}
+
+span.welcome-page-masthead-venue, span.welcome-page-date {
+  font-weight: 700;
 }
 </style>
 
-<div class="row align-items-start">
-  <div class="col-sm-5 p-2 welcome-hero-left">
+<div class="row align-items-start mx-n2">
+  <div class="col-12 col-md-5 p-2 welcome-hero-left">
     <h1 class="welcome-hero-title">Welcome to DevOpsDays Lima! <span class="welcome-hero-year">2026</span></h1>
     <div class="welcome-hero-logo">
       {{< event_logo >}}
@@ -135,13 +145,13 @@ a.p-location:hover, a.p-location:active {
       </a>
     </div>
   </div>
-  <div class="col-sm-7 text-center p-2">
+  <div class="col-12 col-md-7 text-center p-2">
     <iframe 
       src="https://www.youtube.com/embed/OOYWupGVhqA?autoplay=1&mute=1&playsinline=1" 
       frameborder="0" 
       allow="autoplay; fullscreen; picture-in-picture" 
       allowfullscreen 
-      style="width: 100%; height: 300px; max-width: 100%;">
+      class="welcome-hero-video">
     </iframe>
     <br/>Impressions from 2025
   </div>  
