@@ -14,13 +14,9 @@ The Code of Conduct applies to all participants at a devopsdays Amsterdam event.
 <!-- 
 ### Report contact details
 Our Code of Conduct team members are:
-- Floor Drees (organizer), she/her, NL/DE/EN, floordrees on Telegram
-- Jos van Schouten (organizer), he/him, EN/NL, josvanschouten
-- Celeste Horgan (external), she/her, EN, celestehorgan
-- Daniel Bodky (external / speaker), he/him, EN/DE, dbodky
-- Laura Santamaria (DevOpsDays Core), she/her, EN
+- LIST_OF_NAMES
 
-All Code of Conduct team members, except for Laura Santamaria, will be on-site, at DevOpsDays Amsterdam. You can reach all 5 members of the team via email: amsterdam-coc@devopsdays.org
+All Code of Conduct team members, except for ... will be on-site, at DevOpsDays Amsterdam. You can reach all 5 members of the team via email: amsterdam-coc@devopsdays.org
 
 Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events.  -->
 
