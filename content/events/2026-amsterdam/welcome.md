@@ -2,7 +2,7 @@
 Title = "DevOpsDays Amsterdam 2026"
 Type = "welcome"
 aliases = ["/events/2026-amsterdam/"]
-Description = "DevOpsDays Amsterdam 2026 - Join us on June 18th, 2026 in Amsterdam for a day exploring DevOps, AI, and Platform Engineering!"
+Description = "DevOpsDays Amsterdam 2026 - Join us on June 19th, 2026 in Amsterdam for a day exploring DevOps, AI, and Platform Engineering!"
 +++
 
 <div style="text-align:center;">
