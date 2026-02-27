@@ -148,6 +148,8 @@ sponsors:
     level: bronze
   - id: pomerium
     level: bronze
+  - id: portainer
+    level: bronze
   - id: kubecareers
     level: media
   - id: kubeevents
